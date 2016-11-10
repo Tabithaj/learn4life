@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+ul{
+  font-family: 'Lobster', cursive;
+}
+.list{
+  Background-color: pink;
+  list-stye: none;
+  padding: 0;
+  width:200px;
+  border: 1px solid hotpink;
+}
+.list .list-item{
+  border-bottom: 1px solid lightblue;
+  padding: 5px;
+
+}
+.list .list-item:last-child{
+  border-bottom: 0px;
+}
+.list .list-item a{
+  color: white;
+  text-decoration:none;
+}
+li:hover, list-item:hover, a:hover {
+    background-color: lightgreen;
+}

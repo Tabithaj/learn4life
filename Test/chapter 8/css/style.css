@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Coiny');
+article{
+  font-family: 'Coiny', cursive;
+}
+body{
+  background-color: pink;
+}
+.pepes{
+  color: blue;
+}
