@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Mouse+Memoirs');
+h3 {
+  font-family: 'Mouse Memoirs', sans-serif;
+}
+div.container {
+  max-width:1160px;
+  margin:0 auto;
+}
+section {
+  background-image:
+}
+ul::after{
+  clear:both;
+  display:block;
+  content: '';
+}
+ ul li {
+  display:inline-block;
+  float:left;
+  width:calc(1160/5);
+  text-align: center;
+  font-size:175%;
+}
+ ul li a {
+  text-decoration:none;
+  color:white;
+}
