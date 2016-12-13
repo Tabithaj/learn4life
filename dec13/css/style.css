@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+font {
+
+}
+h1{
+  color:#FFDDE9;
+  display:inline-block;
+  float:left;
+}
+background-image{
+  background-image: url(../img/Protest_LOWRESS_1548-1701x1111-c-default.jpg);
+  background-repeat: no-repeat;
+  padding: 400px;
+}
+
+div.header{
+  background-image: url(../img/Protest_LOWRESS_1548-1701x1111-c-default.jpg);
+  background-repeat: no-repeat;
+  padding: 400px;
+}
+.button {
+    background-color: pink; /* pink */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    align-content: center; butts lolololo
+}
